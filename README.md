@@ -12,8 +12,7 @@ Feature List:
 -   📱 Completely Responsive
 -   💬 Chat App With Image Support
 -   👀 Seen/Unseen Status for Messages
--   🔊 Notification sounds
--   ⭐ Deployment for FREE
+
 
 ### Setup .env file
 
